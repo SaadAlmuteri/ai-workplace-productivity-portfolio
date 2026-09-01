@@ -1,11 +1,5 @@
 # AI Workplace Productivity Portfolio — Project Coordinator
 
-## Trainee Information
-- **Trainee Name:** Saad Nasser Al-Mutairi
-- **Training Program:** L0-FGP — Generative AI for Workplace Productivity
-- **Instructor:** Fahad Alqahtani
-- **Date:** September 2026
-
 ## Project Overview
 This repository serves as a professional capstone portfolio demonstrating the practical application of Generative AI tools in workplace operations. Focused on the role of a **Project Coordinator**, it showcases structured prompt engineering, rigorous human-in-the-loop review workflows, data extraction from messy communications, milestone planning, and strict verification protocols to boost operational productivity while maintaining data privacy and accuracy.
 
@@ -40,3 +34,11 @@ This repository serves as a professional capstone portfolio demonstrating the pr
 
 ## Responsible Use Statement
 This portfolio does not contain real confidential, proprietary, private, or sensitive organizational data. All scenarios, project names, and personnel references are completely fictionalized for educational demonstration purposes. All AI-generated outputs have been rigorously reviewed, edited, and approved by the trainee.
+
+
+## Trainee Information
+- **Trainee Name:** Saad Nasser Al-Mutairi
+- **Academy:** SDAIA Academy
+- **Training Program:** L0-FGP — Generative AI for Workplace Productivity
+- **Instructor:** Fahad Alqahtani
+- **Date:** September 2026
